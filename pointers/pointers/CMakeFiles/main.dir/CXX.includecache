@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/furkan/Belgeler/C++ Projects/pointers/pointers/PointerEx.cpp
+PointerEx.h
+/home/furkan/Belgeler/C++ Projects/pointers/pointers/PointerEx.h
+iostream
+-
+
+/home/furkan/Belgeler/C++ Projects/pointers/pointers/PointerEx.h
+
+/home/furkan/Belgeler/C++ Projects/pointers/pointers/main.cpp
+iostream
+-
+PointerEx.h
+/home/furkan/Belgeler/C++ Projects/pointers/pointers/PointerEx.h
+
