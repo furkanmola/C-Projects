@@ -1,0 +1,3 @@
+/home/furkan/Belgeler/Software-Projects/functions/functions/CMakeFiles/rebuild_cache.dir
+/home/furkan/Belgeler/Software-Projects/functions/functions/CMakeFiles/edit_cache.dir
+/home/furkan/Belgeler/Software-Projects/functions/functions/CMakeFiles/main.dir
